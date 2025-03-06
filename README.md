@@ -12,4 +12,5 @@ The analysis includes graph visualizations created with Python (Matplotlib).
 
 ##### Data Sources
 Statcast: [https://baseballsavant.mlb.com/savant-player/marcus-semien-543760?stats=statcast-r-hitting-mlb]
+
 FanGraphs: [https://www.fangraphs.com/players/marcus-semien/12533/stats?position=2B/SS]
